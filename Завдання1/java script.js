@@ -17,4 +17,5 @@ let a1 = prompt("Введите обязательную статью расхо
 appData.expenses[a1] = [b1];
 appData.expenses[a2] = [b2];
 
+
 alert(appData.budget / 30);
